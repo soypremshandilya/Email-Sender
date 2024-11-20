@@ -50,8 +50,9 @@ Before running the application, ensure you have the following:
 
 Example:
 - **Main Interface**  
-![Screenshot-1](assets/Recieved%20Mail.png)
-![Screenshot-2](assets/Screenshot1.png)
+![Screenshot-1](assets/Screenshot1.png)
+**Recieved Mail**
+![Screenshot-2](assets/Recieved%20Mail.png)
 
 ---
 
